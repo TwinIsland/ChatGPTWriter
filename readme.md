@@ -32,7 +32,7 @@ Ensure that you have the following software installed on your system:
 
 ### Configuration
 
-1. Create a file named `openapi_token` in the project's main folder and enter your OpenAPI token within the file. This token will grant access to the ChatGPT 3.5 Turbo Engine.
+1. Create a file named `openai_token` in the project's main folder and enter your OpenAPI token within the file. This token will grant access to the ChatGPT 3.5 Turbo Engine.
 
 ### Usage
 
