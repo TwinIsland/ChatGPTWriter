@@ -56,5 +56,5 @@ start_server_dev.bat
 test/test.db
 
 # safety reason
-openapi_token
+openai_token
 user.db

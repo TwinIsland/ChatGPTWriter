@@ -4,7 +4,7 @@ import hashlib
 
 from utils import convert_messages_to_md
 
-with open('./openapi_token', 'r', encoding='utf-8') as f:
+with open('openai_token', 'r', encoding='utf-8') as f:
     openai.api_key = f.read()
 
 
