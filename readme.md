@@ -38,11 +38,9 @@ Ensure that you have the following software installed on your system:
 
 1. Run the `web.py` script to initiate the ChatGPTWriter application.
 
-2. Open your preferred web browser and navigate to the URL provided in the console output.
+2. Register for a new account via running `admin_cmd.py`.
 
-3. Register for a new account or log in to an existing account.
-
-4. Begin composing Chinese essays using the ChatGPTWriter application, and enjoy a seamless writing experience!
+3. Begin composing Chinese essays using the ChatGPTWriter application, and enjoy a seamless writing experience!
 
 ## Acknowledgments
 
